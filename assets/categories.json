@@ -1,7 +1,47 @@
 [
   {
-    "name": "ثقلثقل",
+    "name": "المعجنات",
     "size": "small",
-    "imageUrl": "assets/images/Screenshot_2025-10-15_171254.png"
+    "imageUrl": ""
+  },
+  {
+    "name": "المعجنات الصحية ",
+    "size": "small",
+    "imageUrl": ""
+  },
+  {
+    "name": "الكرواسون",
+    "size": "small",
+    "imageUrl": ""
+  },
+  {
+    "name": "الحلويات",
+    "size": "small",
+    "imageUrl": ""
+  },
+  {
+    "name": "السموذي",
+    "size": "small",
+    "imageUrl": ""
+  },
+  {
+    "name": "الموهيتو",
+    "size": "small",
+    "imageUrl": ""
+  },
+  {
+    "name": "الكوكتيلات والعصائر الطبيعية",
+    "size": "small",
+    "imageUrl": ""
+  },
+  {
+    "name": "الميلك شيك",
+    "size": "small",
+    "imageUrl": ""
+  },
+  {
+    "name": "مشروبات القهوة المثلجة",
+    "size": "small",
+    "imageUrl": ""
   }
 ]

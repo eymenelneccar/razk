@@ -2,9 +2,7 @@
   "enabled": true,
   "autoplay": false,
   "intervalMs": 5000,
-  "title": "ثثل",
-  "subtitle": "ثقلقل",
-  "images": [
-    "assets/images/Screenshot_2025-11-04_132956.png"
-  ]
+  "title": "",
+  "subtitle": "",
+  "images": []
 }
