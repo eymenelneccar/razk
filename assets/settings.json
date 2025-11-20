@@ -1,10 +1,11 @@
 {
-  "whatsappNumber": "09058297665",
-  "contactNumber": "09058297665",
+  "whatsappNumber": "96407748177749",
+  "contactNumber": "96407748177749",
   "locationName": "",
-  "mapLink": "",
+  "mapLink": "https://maps.app.goo.gl/wNjmWkLzpwm3Tkna6?g_st=ipc",
   "sheetsWebhookUrl": "https://script.google.com/macros/s/AKfycbyw9a7EEgzd67jOkQ9hGUyQdjpPE4UkVyqcvI8wNqGmTQKl9cff0QLuDVi2gZjtfXOIWA/exec",
   "ordersEnabled": false,
+  "instagramLink": "https://www.instagram.com/razqi.iq?igsh=M2JmMTlxdHU3NDVp",
   "theme": {
     "textColor": "#372947",
     "bgColor": "#ffffff",

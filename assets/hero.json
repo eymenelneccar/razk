@@ -2,7 +2,9 @@
   "enabled": true,
   "autoplay": false,
   "intervalMs": 5000,
-  "title": "",
+  "title": "اول كهوة وفرن مختص بالنجف",
   "subtitle": "",
-  "images": []
+  "images": [
+    "assets/images/IMG_4185.jpeg"
+  ]
 }

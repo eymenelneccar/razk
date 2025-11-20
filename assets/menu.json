@@ -125,7 +125,7 @@
     "category": "المعجنات الصحية (عجينة شعير)",
     "price": 5000,
     "description": "عجينة شعير، صلصة طماطم، لحم مفروم وبصل",
-    "imageUrl": ""
+    "imageUrl": "assets/images/IMG_4038.jpeg"
   },
   {
     "id": 1763204587115,
@@ -133,7 +133,7 @@
     "category": "المعجنات الصحية (عجينة شعير)",
     "price": 5000,
     "description": "عجينة شعير، لحم مفروم، جبن وتوابل رازقي",
-    "imageUrl": ""
+    "imageUrl": "assets/images/IMG_4035.jpeg"
   },
   {
     "id": 1763204665339,
@@ -141,7 +141,7 @@
     "category": "المعجنات الصحية (عجينة شعير)",
     "price": 5000,
     "description": "عجينة شعير، جبن وبيروني",
-    "imageUrl": ""
+    "imageUrl": "assets/images/IMG_4033.jpeg"
   },
   {
     "id": 1763204673951,
@@ -149,7 +149,7 @@
     "category": "المعجنات الصحية (عجينة شعير)",
     "price": 5000,
     "description": "عجينة شعير وجبن",
-    "imageUrl": ""
+    "imageUrl": "assets/images/IMG_4036.jpeg"
   },
   {
     "id": 1763204595160,
@@ -157,7 +157,7 @@
     "category": "المعجنات الصحية (عجينة شعير)",
     "price": 5000,
     "description": "عجينة شعير، جبن وشرائح زيتون",
-    "imageUrl": ""
+    "imageUrl": "assets/images/IMG_4062.jpeg"
   },
   {
     "id": 1763204631758,
@@ -165,7 +165,7 @@
     "category": "المعجنات الصحية (عجينة شعير)",
     "price": 5000,
     "description": "عجينة شعير، زعتر وزيت زيتون",
-    "imageUrl": ""
+    "imageUrl": "assets/images/IMG_4037.jpeg"
   },
   {
     "id": 1763204653231,
@@ -173,7 +173,7 @@
     "category": "المعجنات الصحية (عجينة شعير)",
     "price": 5000,
     "description": "عجينة شعير، زعتر، جبن وزيت زيتون",
-    "imageUrl": ""
+    "imageUrl": "assets/images/IMG_4040.jpeg"
   },
   {
     "id": 1763204644301,
@@ -181,7 +181,7 @@
     "category": "المعجنات الصحية (عجينة شعير)",
     "price": 5000,
     "description": "عجينة شعير، جبن وشرائح فطر",
-    "imageUrl": ""
+    "imageUrl": "assets/images/9c78dc03-279c-4dd5-893a-f7ba0bb25108.jpeg"
   },
   {
     "id": 1763204668753,
@@ -189,7 +189,7 @@
     "category": "المعجنات الصحية (عجينة شعير)",
     "price": 5000,
     "description": "عجينة شعير، جبن وحبش مدخن",
-    "imageUrl": ""
+    "imageUrl": "assets/images/IMG_4039.jpeg"
   },
   {
     "id": 1763204623109,
@@ -197,7 +197,7 @@
     "category": "المعجنات الصحية (عجينة شعير)",
     "price": 5000,
     "description": "عجينة شعير، صلصة سبايسي، سمسم، حبة سوداء وتوابل رازقي",
-    "imageUrl": ""
+    "imageUrl": "assets/images/IMG_4041.jpeg"
   },
   {
     "id": 1763204649506,
@@ -205,7 +205,7 @@
     "category": "المعجنات الصحية (عجينة شعير)",
     "price": 5000,
     "description": "عجينة شعير، صلصة طماطم سبايسي، جبن، سمسم وحبة سوداء",
-    "imageUrl": ""
+    "imageUrl": "assets/images/IMG_4030.jpeg"
   },
   {
     "id": 1763204604115,
@@ -213,7 +213,7 @@
     "category": "المعجنات الصحية (عجينة شعير)",
     "price": 5000,
     "description": "عجينة شعير، صدر دجاج مفروم، زيت أبيض وتوابل رازقي",
-    "imageUrl": ""
+    "imageUrl": "assets/images/5a0910bf-4c31-4f3c-9537-65a8e7e91bc4.jpeg"
   },
   {
     "id": 1763204668851,
@@ -221,7 +221,7 @@
     "category": "المعجنات الصحية (عجينة شعير)",
     "price": 5000,
     "description": "عجينة شعير، دجاج، جبن وتوابل رازقي",
-    "imageUrl": ""
+    "imageUrl": "assets/images/IMG_4035.jpeg"
   },
   {
     "id": 1763204639516,
@@ -277,7 +277,7 @@
     "category": "الحلويات",
     "price": 5500,
     "description": "شعيرية كنافة، جبن، فستق حلبي، قطر وشوكولاتة",
-    "imageUrl": ""
+    "imageUrl": "assets/images/IMG_4184.jpeg"
   },
   {
     "id": 1763204616973,
@@ -285,7 +285,7 @@
     "category": "الحلويات",
     "price": 5000,
     "description": "بقلاوة محشية فستق حلبي مغطاة بالقطر",
-    "imageUrl": ""
+    "imageUrl": "assets/images/504f3d9f-5bef-499b-8ea9-b637a73dcd86.jpeg"
   },
   {
     "id": 1763204604518,
@@ -341,7 +341,7 @@
     "category": "الموهيتو",
     "price": 4000,
     "description": "سفن أب، سيروب فراولة، سيروب توت، ليمون ونعناع",
-    "imageUrl": ""
+    "imageUrl": "assets/images/24892ae7-9831-40f3-8196-bb8fd24edbce.jpeg"
   },
   {
     "id": 1763204588185,
@@ -485,7 +485,7 @@
     "category": "مشروبات القهوة المثلجة",
     "price": 5000,
     "description": "",
-    "imageUrl": ""
+    "imageUrl": "assets/images/1174b899-b6a8-493e-ae03-c400eebdf9f9.jpeg"
   },
   {
     "id": 1763204633847,
