@@ -43,5 +43,20 @@
     "name": "مشروبات القهوة المثلجة",
     "size": "small",
     "imageUrl": "assets/images/IMG_3981.jpeg"
+  },
+  {
+    "name": "الگهوه السوداء",
+    "size": "small",
+    "imageUrl": "assets/images/03b37a17-ed71-4406-af9c-7ad0d6069bed.jpeg"
+  },
+  {
+    "name": "بيتزا",
+    "size": "small",
+    "imageUrl": "assets/images/f7282962-9cf4-4255-8174-d803d2e1b565.jpeg"
+  },
+  {
+    "name": "الفطائر",
+    "size": "small",
+    "imageUrl": "assets/images/87706ed8-2a58-4031-82e8-9a4eb3dc02de.jpeg"
   }
 ]
