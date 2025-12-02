@@ -1,0 +1,643 @@
+[
+  {
+    "id": 1763204598326,
+    "name": "رغيف رازقي",
+    "category": "مناقيش",
+    "price": 6000,
+    "sizes": [
+      {
+        "name": "كبير",
+        "price": 6000
+      },
+      {
+        "name": "وسط",
+        "price": 4000
+      }
+    ],
+    "description": "عجينة، جبن، سمسم وحبة سوداء",
+    "imageUrl": "assets/images/f448913e-8fd1-41e1-ae4a-58ac0d9c3bd5.jpeg"
+  },
+  {
+    "id": 1763204682167,
+    "name": "كليجة تمر",
+    "category": "الحلويات",
+    "price": 3000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_4029.jpeg"
+  },
+  {
+    "id": 1763204616284,
+    "name": "منقوشة زعتر",
+    "category": "مناقيش",
+    "price": 2500,
+    "description": "عجينة، زعتر وزيت الزيتون",
+    "imageUrl": "assets/images/081511df-329d-4e51-9388-5ae969536ea3.jpeg"
+  },
+  {
+    "id": 1763204616360,
+    "name": "منقوشة جبن",
+    "category": "مناقيش",
+    "price": 4000,
+    "description": "عجينة وجبن",
+    "imageUrl": "assets/images/6967527c-46e0-42aa-9850-cd58e6183510.jpeg"
+  },
+  {
+    "id": 1763204681643,
+    "name": "منقوشة جبن وزيتون",
+    "category": "مناقيش",
+    "price": 4500,
+    "description": "عجينة، جبن وزيتون",
+    "imageUrl": "assets/images/IMG_4062.jpeg"
+  },
+  {
+    "id": 1763204615564,
+    "name": "منقوشة زعتر وجبن",
+    "category": "مناقيش",
+    "price": 3500,
+    "description": "عجينة، زعتر، جبن وزيت الزيتون",
+    "imageUrl": "assets/images/cd66a82b-716d-47a4-a831-a483b967136e.jpeg"
+  },
+  {
+    "id": 1763204605658,
+    "name": "منقوشة محمرة",
+    "category": "مناقيش",
+    "price": 3000,
+    "description": "عجينة، سمسم، حبة سوداء وصلصة طماطم سبايسي",
+    "imageUrl": "assets/images/IMG_4041.jpeg"
+  },
+  {
+    "id": 1763204603846,
+    "name": "منقوشة محمرة بالجبن",
+    "category": "مناقيش",
+    "price": 4500,
+    "description": "عجينة، صلصة سبايسي، جبن، سمسم وحبة سوداء",
+    "imageUrl": "assets/images/IMG_4030.jpeg"
+  },
+  {
+    "id": 1763204613934,
+    "name": "منقوشة دجاج",
+    "category": "مناقيش",
+    "price": 3500,
+    "description": "عجينة ودجاج مفروم",
+    "imageUrl": "assets/images/5a0910bf-4c31-4f3c-9537-65a8e7e91bc4.jpeg"
+  },
+  {
+    "id": 1763204651568,
+    "name": "منقوشة دجاج بالجبن",
+    "category": "مناقيش",
+    "price": 4500,
+    "description": "عجينة، دجاج وجبن",
+    "imageUrl": "assets/images/IMG_4035.jpeg"
+  },
+  {
+    "id": 1763204635102,
+    "name": "منقوشة حبش مدخن وجبن",
+    "category": "مناقيش",
+    "price": 4000,
+    "description": "عجينة، حبش مدخن وجبن",
+    "imageUrl": "assets/images/1eb1568e-e586-4c89-b19b-45a5cfbc8a41.jpeg"
+  },
+  {
+    "id": 1763204633655,
+    "name": "منقوشة بيبروني وجبن",
+    "category": "مناقيش",
+    "price": 4000,
+    "description": "عجينة، بيبروني وجبن",
+    "imageUrl": "assets/images/7bd8401f-4636-461e-971e-0acb97e030be.jpeg"
+  },
+  {
+    "id": 1763204611772,
+    "name": "منقوشة لحم بالجبن",
+    "category": "مناقيش",
+    "price": 4500,
+    "description": "عجينة، لحم مفروم وجبن",
+    "imageUrl": "assets/images/IMG_4030.jpeg"
+  },
+  {
+    "id": 1763204666848,
+    "name": "لحم بعجين",
+    "category": "مناقيش",
+    "price": 3500,
+    "description": "عجينة، لحم مفروم، طماطم وبصل",
+    "imageUrl": "assets/images/68fd6f28-d1d6-4e2c-ae7e-ac21ba8bfe2c.jpeg"
+  },
+  {
+    "id": 1763204676845,
+    "name": "فطائر",
+    "category": "الفطائر",
+    "price": 6000,
+    "description": "فطائر مشكلة",
+    "imageUrl": "assets/images/87706ed8-2a58-4031-82e8-9a4eb3dc02de.jpeg"
+  },
+  {
+    "id": 1763204603824,
+    "name": "لحم بعجين شعير",
+    "category": "المعجنات الصحية (عجينة شعير)",
+    "price": 5000,
+    "description": "عجينة شعير، صلصة طماطم، لحم مفروم وبصل",
+    "imageUrl": "assets/images/IMG_4038.jpeg"
+  },
+  {
+    "id": 1763204587115,
+    "name": "لحم بعجين شعير بالجبن",
+    "category": "المعجنات الصحية (عجينة شعير)",
+    "price": 5000,
+    "description": "عجينة شعير، لحم مفروم، جبن وتوابل رازقي",
+    "imageUrl": "assets/images/IMG_4035.jpeg"
+  },
+  {
+    "id": 1763204665339,
+    "name": "منقوشة شعير بالبيروني والجبن",
+    "category": "المعجنات الصحية (عجينة شعير)",
+    "price": 5000,
+    "description": "عجينة شعير، جبن وبيروني",
+    "imageUrl": "assets/images/IMG_4033.jpeg"
+  },
+  {
+    "id": 1763204673951,
+    "name": "منقوشة شعير بالجبن",
+    "category": "المعجنات الصحية (عجينة شعير)",
+    "price": 5000,
+    "description": "عجينة شعير وجبن",
+    "imageUrl": "assets/images/IMG_4036.jpeg"
+  },
+  {
+    "id": 1763204595160,
+    "name": "منقوشة شعير بالجبن والزيتون",
+    "category": "المعجنات الصحية (عجينة شعير)",
+    "price": 5000,
+    "description": "عجينة شعير، جبن وشرائح زيتون",
+    "imageUrl": "assets/images/IMG_4062.jpeg"
+  },
+  {
+    "id": 1763204631758,
+    "name": "منقوشة شعير بالزعتر",
+    "category": "المعجنات الصحية (عجينة شعير)",
+    "price": 5000,
+    "description": "عجينة شعير، زعتر وزيت زيتون",
+    "imageUrl": "assets/images/IMG_4037.jpeg"
+  },
+  {
+    "id": 1763204653231,
+    "name": "منقوشة شعير بالزعتر والجبن",
+    "category": "المعجنات الصحية (عجينة شعير)",
+    "price": 5000,
+    "description": "عجينة شعير، زعتر، جبن وزيت زيتون",
+    "imageUrl": "assets/images/IMG_4040.jpeg"
+  },
+  {
+    "id": 1763204644301,
+    "name": "منقوشة شعير بالفطر والجبن",
+    "category": "المعجنات الصحية (عجينة شعير)",
+    "price": 5000,
+    "description": "عجينة شعير، جبن وشرائح فطر",
+    "imageUrl": "assets/images/9c78dc03-279c-4dd5-893a-f7ba0bb25108.jpeg"
+  },
+  {
+    "id": 1763204668753,
+    "name": "منقوشة شعير حبش مدخن بالجبن",
+    "category": "المعجنات الصحية (عجينة شعير)",
+    "price": 5000,
+    "description": "عجينة شعير، جبن وحبش مدخن",
+    "imageUrl": "assets/images/IMG_4039.jpeg"
+  },
+  {
+    "id": 1763204649506,
+    "name": "منقوشة شعير محمرة بالجبن",
+    "category": "المعجنات الصحية (عجينة شعير)",
+    "price": 5000,
+    "description": "عجينة شعير، صلصة طماطم سبايسي، جبن، سمسم وحبة سوداء",
+    "imageUrl": "assets/images/IMG_4030.jpeg"
+  },
+  {
+    "id": 1763204639516,
+    "name": "كرواسون بالجبنة",
+    "category": "الكرواسون",
+    "price": 4500,
+    "description": "كرواسون محشي جبن",
+    "imageUrl": "assets/images/IMG_4011.jpeg"
+  },
+  {
+    "id": 1763204629366,
+    "name": "كرواسون نوتيلا",
+    "category": "الكرواسون",
+    "price": 4500,
+    "description": "كرواسون محشي بالنوتيلا، مغطى بالفستق ونوتيلا",
+    "imageUrl": "assets/images/IMG_4012.jpeg"
+  },
+  {
+    "id": 1763204607781,
+    "name": "كرواسون فراولة",
+    "category": "الكرواسون",
+    "price": 4500,
+    "description": "كرواسون محشي صلصة فراولة وفستق",
+    "imageUrl": "assets/images/IMG_4061.jpeg"
+  },
+  {
+    "id": 1763204609345,
+    "name": "كرواسون فستق",
+    "category": "الكرواسون",
+    "price": 4500,
+    "description": "كرواسون محشي صلصة فستق وفستق",
+    "imageUrl": "assets/images/IMG_4010.jpeg"
+  },
+  {
+    "id": 1763204669811,
+    "name": "اكلير",
+    "category": "الحلويات",
+    "price": 3000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_4006.jpeg"
+  },
+  {
+    "id": 1763204669269,
+    "name": "براونيز",
+    "category": "الحلويات",
+    "price": 3000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_4005.jpeg"
+  },
+  {
+    "id": 1763204653751,
+    "name": "كنافة جبن",
+    "category": "الحلويات",
+    "price": 5000,
+    "description": "شعيرية كنافة، جبن، فستق حلبي، قطر وشوكولاتة",
+    "imageUrl": "assets/images/IMG_4184.jpeg"
+  },
+  {
+    "id": 1763204616973,
+    "name": "بقلاوة فستق حلبي",
+    "category": "الحلويات",
+    "price": 3000,
+    "description": "بقلاوة محشية فستق حلبي مغطاة بالقطر",
+    "imageUrl": "assets/images/504f3d9f-5bef-499b-8ea9-b637a73dcd86.jpeg"
+  },
+  {
+    "id": 1763204604518,
+    "name": "سموذي فراولة",
+    "category": "السموذي",
+    "price": 5000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_3993.jpeg"
+  },
+  {
+    "id": 1763204643566,
+    "name": "سموذي مانجو",
+    "category": "السموذي",
+    "price": 5000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_3992.jpeg"
+  },
+  {
+    "id": 1763204628231,
+    "name": "سموذي استوائي",
+    "category": "السموذي",
+    "price": 5000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_3991.jpeg"
+  },
+  {
+    "id": 1763204618293,
+    "name": "موهيتو كلاسيك",
+    "category": "الموهيتو",
+    "price": 4000,
+    "description": "سفن أب، سيروب الليمون والنعناع",
+    "imageUrl": "assets/images/IMG_3990.jpeg"
+  },
+  {
+    "id": 1763204661598,
+    "name": "موهيتو بلو باشن",
+    "category": "الموهيتو",
+    "price": 4000,
+    "description": "سفن أب، سيروب بلو باشن، ليمون ونعناع",
+    "imageUrl": "assets/images/IMG_3997.jpeg"
+  },
+  {
+    "id": 1763204636438,
+    "name": "موهيتو فواكه استوائية",
+    "category": "الموهيتو",
+    "price": 4000,
+    "description": "سفن أب، سيروب فواكه استوائية، ليمون ونعناع",
+    "imageUrl": "assets/images/IMG_3994.jpeg"
+  },
+  {
+    "id": 1763204645999,
+    "name": "موهيتو فراولة وتوت",
+    "category": "الموهيتو",
+    "price": 4000,
+    "description": "سفن أب، سيروب فراولة، سيروب توت، ليمون ونعناع",
+    "imageUrl": "assets/images/24892ae7-9831-40f3-8196-bb8fd24edbce.jpeg"
+  },
+  {
+    "id": 1763204588185,
+    "name": "موهيتو طاقة",
+    "category": "الموهيتو",
+    "price": 5000,
+    "description": "مشروب طاقة، سيروب ليمون ونعناع",
+    "imageUrl": "assets/images/IMG_3988.jpeg"
+  },
+  {
+    "id": 1763204610953,
+    "name": "كوكتيل رازقي",
+    "category": "الكوكتيلات والعصائر الطبيعية",
+    "price": 6000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_4001.jpeg"
+  },
+  {
+    "id": 1763204631410,
+    "name": "كوكتيل موز وليمون",
+    "category": "الكوكتيلات والعصائر الطبيعية",
+    "price": 4000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_3999.jpeg"
+  },
+  {
+    "id": 1763204602550,
+    "name": "كوكتيل ليمون ونعناع",
+    "category": "الكوكتيلات والعصائر الطبيعية",
+    "price": 4000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_3995.jpeg"
+  },
+  {
+    "id": 1763204682275,
+    "name": "عصير برتقال",
+    "category": "الكوكتيلات والعصائر الطبيعية",
+    "price": 4000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_3996.jpeg"
+  },
+  {
+    "id": 1763204643067,
+    "name": "ميلك شيك اوريو",
+    "category": "الميلك شيك",
+    "price": 5000,
+    "description": "حليب، ايس كريم واوريو",
+    "imageUrl": "assets/images/IMG_4002.jpeg"
+  },
+  {
+    "id": 1763204683125,
+    "name": "ميلك شيك نوتيلا",
+    "category": "الميلك شيك",
+    "price": 5000,
+    "description": "حليب، ايس كريم ونوتيلا",
+    "imageUrl": "assets/images/IMG_4004.jpeg"
+  },
+  {
+    "id": 1763204601610,
+    "name": "ميلك شيك فستق",
+    "category": "الميلك شيك",
+    "price": 5000,
+    "description": "حليب، ايس كريم وصلصة فستق",
+    "imageUrl": "assets/images/IMG_4008.jpeg"
+  },
+  {
+    "id": 1763204621765,
+    "name": "ميلك شيك كرواسون",
+    "category": "الميلك شيك",
+    "price": 6000,
+    "description": "حليب، ايس كريم وكرواسون",
+    "imageUrl": "assets/images/IMG_3998.jpeg"
+  },
+  {
+    "id": 1763204600056,
+    "name": "لاتيه مثلج",
+    "category": "مشروبات القهوة المثلجة",
+    "price": 4000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_3989.jpeg"
+  },
+  {
+    "id": 1763204643520,
+    "name": "لاتيه بالكراميل مثلج",
+    "category": "مشروبات القهوة المثلجة",
+    "price": 5000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_3986.jpeg"
+  },
+  {
+    "id": 1763204610671,
+    "name": "لاتيه بالكراميل مملح مثلج",
+    "category": "مشروبات القهوة المثلجة",
+    "price": 5000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_3985.jpeg"
+  },
+  {
+    "id": 1763204635503,
+    "name": "سبانش لاتيه مثلج",
+    "category": "مشروبات القهوة المثلجة",
+    "price": 5000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_3982.jpeg"
+  },
+  {
+    "id": 1763204678376,
+    "name": "لاتيه بالفستق مثلج",
+    "category": "مشروبات القهوة المثلجة",
+    "price": 5000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_3984.jpeg"
+  },
+  {
+    "id": 1763204642144,
+    "name": "موكا بيضاء مثلجة",
+    "category": "مشروبات القهوة المثلجة",
+    "price": 5000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_3982.jpeg"
+  },
+  {
+    "id": 1763204662121,
+    "name": "سبانش لاتيه باللافندر مثلج",
+    "category": "مشروبات القهوة المثلجة",
+    "price": 5000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_3980.jpeg"
+  },
+  {
+    "id": 1763204608466,
+    "name": "فرابيه موكا مثلج",
+    "category": "مشروبات القهوة المثلجة",
+    "price": 5000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_3981.jpeg"
+  },
+  {
+    "id": 1763204657734,
+    "name": "فرابيه بالكراميل مثلج",
+    "category": "مشروبات القهوة المثلجة",
+    "price": 5000,
+    "description": "",
+    "imageUrl": "assets/images/1174b899-b6a8-493e-ae03-c400eebdf9f9.jpeg"
+  },
+  {
+    "id": 1763204633847,
+    "name": "فرابيه بالفستق مثلج",
+    "category": "مشروبات القهوة المثلجة",
+    "price": 5000,
+    "description": "",
+    "imageUrl": "assets/images/IMG_3983.jpeg"
+  },
+  {
+    "id": 1763668982421,
+    "name": "V60",
+    "category": "الگهوه السوداء",
+    "price": 5000,
+    "imageUrl": "assets/images/1eff794a-5ec3-4cec-87d8-b38879b6047e.jpeg",
+    "description": ""
+  },
+  {
+    "id": 1763669013963,
+    "name": "ِ",
+    "category": "الگهوه السوداء",
+    "price": 5000,
+    "imageUrl": "assets/images/03b37a17-ed71-4406-af9c-7ad0d6069bed.jpeg",
+    "description": "",
+    "sizes": [
+      {
+        "name": "لونغو",
+        "price": 3000
+      },
+      {
+        "name": "ريستريتو",
+        "price": 3000
+      },
+      {
+        "name": "اسبرسو",
+        "price": 3000
+      }
+    ]
+  },
+  {
+    "id": 1763669035135,
+    "name": "امريكانو",
+    "category": "الگهوه السوداء",
+    "price": 3000,
+    "imageUrl": "assets/images/f804e14f-20db-49b1-ad07-8b4553f11666.jpeg",
+    "description": "",
+    "sizes": []
+  },
+  {
+    "id": 1763669080992,
+    "name": "مارغريتا",
+    "category": "بيتزا",
+    "price": 8000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1763669169339,
+    "name": "فونكي",
+    "category": "بيتزا",
+    "price": 9000,
+    "imageUrl": "assets/images/27a82a1c-28a0-4601-b314-c28b67fc7598.jpeg",
+    "description": "عجينه خفيفه+صلصه بيتزا+جبن+زيتون+فطر"
+  },
+  {
+    "id": 1763669374779,
+    "name": "خضروات",
+    "category": "بيتزا",
+    "price": 9000,
+    "imageUrl": "",
+    "description": "عجينه خفيفه+صلصه بيتزا +جبن+فلفل+زيتون +فطر"
+  },
+  {
+    "id": 1763669437835,
+    "name": "دجاج",
+    "category": "بيتزا",
+    "price": 10000,
+    "imageUrl": "",
+    "description": "عجينه خفيفه+صلصه بيتزا+جب+ دجاج"
+  },
+  {
+    "id": 1763669523500,
+    "name": "ببروني",
+    "category": "بيتزا",
+    "price": 10000,
+    "imageUrl": "assets/images/f7282962-9cf4-4255-8174-d803d2e1b565.jpeg",
+    "description": "عجينه خفيفه+صلصه بيتزا +جبن قطع ببروني"
+  },
+  {
+    "id": 1763669613980,
+    "name": "حبش مُدخن",
+    "category": "بيتزا",
+    "price": 12000,
+    "imageUrl": "assets/images/b2ae1682-da1f-4217-b65f-5bb4eab3b8c8.jpeg",
+    "description": "عجينه خفيفه+ صلصه بيتزا +جبن +قطع من شرائح الديك الرومي المدخنه"
+  },
+  {
+    "id": 1763742279415,
+    "name": "جبن",
+    "category": "الفطائر",
+    "price": 1000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1763742313850,
+    "name": "محمره",
+    "category": "الفطائر",
+    "price": 1000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1763742330857,
+    "name": "زعتر",
+    "category": "الفطائر",
+    "price": 1000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1763742355312,
+    "name": "حبش مع جبن",
+    "category": "الفطائر",
+    "price": 1250,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1763742384371,
+    "name": "فطر مع جبن",
+    "category": "الفطائر",
+    "price": 1250,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1763742435848,
+    "name": "ببروني مع جبن",
+    "category": "الفطائر",
+    "price": 1250,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1763742502712,
+    "name": "دجاج مع جبن",
+    "category": "الفطائر",
+    "price": 1500,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1763742527006,
+    "name": "محمره بالجبن",
+    "category": "الفطائر",
+    "price": 1500,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1763742566887,
+    "name": "زيتون مع جبن",
+    "category": "الفطائر",
+    "price": 1250,
+    "imageUrl": "",
+    "description": ""
+  }
+]
